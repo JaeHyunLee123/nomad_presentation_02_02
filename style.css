@@ -1,0 +1,40 @@
+@import "reset.css";
+@import url("https://fonts.googleapis.com/css2?family=Gowun+Dodum&display=swap");
+
+body {
+  font-family: "Gowun Dodum", sans-serif;
+  padding: 0px 50px;
+}
+
+header h1 {
+  text-align: center;
+  font-size: 80px;
+}
+
+.introduce {
+  margin-bottom: 100px;
+}
+
+.introduce__name {
+  font-size: 50px;
+  background-color: tomato;
+  text-align: center;
+}
+
+.introduce span {
+  display: block;
+  font-size: 21px;
+}
+
+.introduce h3 {
+  font-size: 40px;
+}
+
+.introduce__gh-pages a {
+  font-size: 21px;
+  font-size: 30px;
+}
+
+img:hover {
+  cursor: pointer;
+}
